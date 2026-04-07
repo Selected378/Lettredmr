@@ -1,7 +1,7 @@
 const textes = [
-    "Mon amour, chaque jour passé avec toi est un cadeau. dddddddddddddddddddddddddddddddd",
-    "Ton sourire illumine ma vie et réchauffe mon cœur.",
-    "Je t’aime plus que les mots ne peuvent le dire."
+    "A",
+    "B",
+    "C"
 ];
 
 function ouvrirLettre() {
